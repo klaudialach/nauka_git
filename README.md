@@ -14,3 +14,8 @@ Pierwszy projekt
 curl google.com
 ```
 2. b gjmhjm
+
+t100_dodaj
+
+##Deploy
+Testowe_testowe
